@@ -1,0 +1,5 @@
+C:\Programming Practice\MVC Practice\TripPlanner\TripPlanner\obj\Debug\ResolveAssemblyReference.cache
+C:\Programming Practice\MVC Practice\TripPlanner\TripPlanner\bin\TripPlanner.dll
+C:\Programming Practice\MVC Practice\TripPlanner\TripPlanner\bin\TripPlanner.pdb
+C:\Programming Practice\MVC Practice\TripPlanner\TripPlanner\obj\Debug\TripPlanner.dll
+C:\Programming Practice\MVC Practice\TripPlanner\TripPlanner\obj\Debug\TripPlanner.pdb
