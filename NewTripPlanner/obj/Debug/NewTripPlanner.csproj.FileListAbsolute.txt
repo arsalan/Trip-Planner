@@ -1,0 +1,7 @@
+C:\CodeRepositories\OpenSourceRepos\PUBLIC_GitRepos_Github\Trip-Planner\NewTripPlanner\bin\NewTripPlanner.dll
+C:\CodeRepositories\OpenSourceRepos\PUBLIC_GitRepos_Github\Trip-Planner\NewTripPlanner\bin\NewTripPlanner.pdb
+C:\CodeRepositories\OpenSourceRepos\PUBLIC_GitRepos_Github\Trip-Planner\NewTripPlanner\bin\EntityFramework.dll
+C:\CodeRepositories\OpenSourceRepos\PUBLIC_GitRepos_Github\Trip-Planner\NewTripPlanner\bin\EntityFramework.xml
+C:\CodeRepositories\OpenSourceRepos\PUBLIC_GitRepos_Github\Trip-Planner\NewTripPlanner\obj\Debug\ResolveAssemblyReference.cache
+C:\CodeRepositories\OpenSourceRepos\PUBLIC_GitRepos_Github\Trip-Planner\NewTripPlanner\obj\Debug\NewTripPlanner.dll
+C:\CodeRepositories\OpenSourceRepos\PUBLIC_GitRepos_Github\Trip-Planner\NewTripPlanner\obj\Debug\NewTripPlanner.pdb

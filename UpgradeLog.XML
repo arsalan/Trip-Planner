@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TripPlanner">
+</Property><Property Name="Solution File" Value="C:\CodeRepositories\OpenSourceRepos\PUBLIC_GitRepos_Github\Trip-Planner\TripPlanner.sln">
+</Property><Property Name="Date" Value="Tuesday, November 01, 2011">
+</Property><Property Name="Time" Value="21:30 PM">
+</Property></Properties><Event ErrorLevel="0" Project="TripPlanner" Source="TripPlanner\TripPlanner.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TripPlanner" Source="TripPlanner\TripPlanner.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TripPlanner.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="TripPlanner.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TripPlanner" Source="TripPlanner\TripPlanner.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
